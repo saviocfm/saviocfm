@@ -1,7 +1,7 @@
 ### Hi i'm Savio Fernandes
 
 - 🔭 I’m currently working on back-end
-- 💻 I’m systems development analyst
+- 💻 I’m fullstack developer
 - 🌱 I’m currently learning microkernel
 - 📫 How to reach me: saviocfm@gmail.com
 
